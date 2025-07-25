@@ -32,8 +32,8 @@ I am a third-year B.Tech student specializing in Artificial Intelligence & Machi
 
 ## How To Use
 
-1. **Clone this repository:**  
-   `git clone https://github.com/yourusername/focuspal.git`
+1. **Clone this repository:**
+   `git clone https://github.com/Adharsh032/FocusPal.git`
 2. **Install required dependencies** using pip.
 3. **Add your audio files** (ensure mp3s are named as in the script).
 4. **Download** `shape_predictor_68_face_landmarks.dat` and place it in the project folder.
